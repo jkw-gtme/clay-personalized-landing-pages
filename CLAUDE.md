@@ -28,8 +28,8 @@ One HTML landing page per prospect — personalized with their name, company nam
 | 1 | Sarah Mitchell | VP of Revenue Operations | Retool | ✅ Complete — `landing-pages/sarah-mitchell-retool.html` |
 | 2 | Marcus Chen | Head of Growth | Linear | ✅ Complete — `landing-pages/marcus-chen-linear.html` |
 | 3 | Emily Rodriguez | Director of Sales Development | Loom | ✅ Complete — `landing-pages/emily-rodriguez-loom.html` |
-| 4 | James Okonkwo | GTM Engineer | Webflow | ⬜ Not started |
-| 5 | Rachel Goldstein | VP of Sales | Airtable | ⬜ Not started |
+| 4 | James Okonkwo | GTM Engineer | Webflow | ✅ Complete — `landing-pages/james-okonkwo-webflow.html` |
+| 5 | Rachel Goldstein | VP of Sales | Airtable | ✅ Complete — `landing-pages/rachel-goldstein-airtable.html` |
 
 ## Output Location
 All pages saved to: `landing-pages/`
@@ -58,6 +58,4 @@ All pages saved to: `landing-pages/`
 - **Emily / Loom (Dir. Sales Dev):** Table = "Loom — SDR Outbound · 1,204 rows". Badge 2 = "90%+ email coverage". Columns: Company / Contact Email / Phone / Tech Stack / Buying Signal / Provider / AI Opener. Pain: 50% research time, 40–60% coverage dead ends, personalization headcount trap, slow rep ramp.
 
 ## Next Steps
-- [ ] Build page 4: James Okonkwo — GTM Engineer at Webflow
-- [ ] Build page 5: Rachel Goldstein — VP of Sales at Airtable
 - [ ] User to review all pages and request any copy/design changes
